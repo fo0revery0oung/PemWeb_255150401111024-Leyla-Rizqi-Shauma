@@ -16,19 +16,19 @@
             width: 100%;
             border-collapse: collapse;
             margin-bottom: 30px;
-            background: #ffe6f0; /* pink background */
+            background: #ffe6f0;
         }
         table th, table td {
             padding: 12px 15px;
-            border: 1px solid #ffb6c1; /* pink border */
+            border: 1px solid #ffb6c1; 
             text-align: left;
         }
         table th {
-            background-color: #5d394b; /* darker pink for header */
+            background-color: #5d394b; 
             color: white;
         }
         table tr:nth-child(even) {
-            background-color: #ffd6e8; /* lighter pink for even rows */
+            background-color: #ffd6e8; 
         }
         form {
             background: #fff;
